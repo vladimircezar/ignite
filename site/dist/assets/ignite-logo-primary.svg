@@ -22,5 +22,5 @@
   <g transform="translate(222 52) scale(.94)" fill="#000">
     <use xlink:href="#g-i" x="0" y="210"/><use xlink:href="#g-g" x="52.797" y="210"/><use xlink:href="#g-n" x="188.391" y="210"/><use xlink:href="#g-i" x="318.188" y="210"/><use xlink:href="#g-t" x="370.984" y="210"/><use xlink:href="#g-e" x="445.391" y="210"/>
   </g>
-  <text x="747" y="305" text-anchor="end" fill="#000" font-family="Poppins, sans-serif" font-size="48" font-weight="500" letter-spacing="-1.4">in Him</text>
+  <text x="747" y="320" text-anchor="end" fill="#000" font-family="Poppins, sans-serif" font-size="64" font-weight="500" letter-spacing="-1.4">in Him</text>
 </svg>
